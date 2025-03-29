@@ -1,12 +1,27 @@
-# React + Vite
+# Projeto de Página de Filmes em React com Integração à API do TMDB
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido utilizando o framework React e a API do TMDB (The Movie Database), que oferece informações sobre filmes e séries. A aplicação tem como objetivo proporcionar uma experiência dinâmica de navegação e pesquisa de filmes, exibindo dados atualizados diretamente da API.
 
-Currently, two official plugins are available:
+## Funcionalidades:
+Exibição de Filmes: A página inicial mostra uma lista de filmes populares, obtidos diretamente da API do TMDB. Cada filme é apresentado com uma imagem e título.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Detalhes do Filme: Ao clicar em qualquer filme, o usuário é redirecionado para uma página de detalhes, onde são exibidas informações como:
+Título completo
 
-## Expanding the ESLint configuration
+Descrição
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Orçamento
+
+Receita
+
+Duração
+
+## Tecnologias Utilizadas:
+React: Para o desenvolvimento da interface de usuário interativa.
+
+API do TMDB: Para obter dados de filmes, como informações gerais, imagens, e dados específicos de cada título.
+
+CSS: Para o design e estilo da página, garantindo uma apresentação agradável e responsiva.
+
+## Link para o github pages
+https://igorcalbo.github.io/movies_lib
