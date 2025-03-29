@@ -3,18 +3,18 @@
 Este projeto foi desenvolvido utilizando o framework React e a API do TMDB (The Movie Database), que oferece informações sobre filmes e séries. A aplicação tem como objetivo proporcionar uma experiência dinâmica de navegação e pesquisa de filmes, exibindo dados atualizados diretamente da API.
 
 ## Funcionalidades:
-Exibição de Filmes: A página inicial mostra uma lista de filmes populares, obtidos diretamente da API do TMDB. Cada filme é apresentado com uma imagem e título.
+Exibição de Filmes: A página inicial mostra uma lista de filmes populares, obtidos diretamente da API do TMDB. Cada filme é apresentado com uma imagem, nota e título.
 
 Detalhes do Filme: Ao clicar em qualquer filme, o usuário é redirecionado para uma página de detalhes, onde são exibidas informações como:
 Título completo
-
-Descrição
 
 Orçamento
 
 Receita
 
 Duração
+
+Descrição
 
 ## Tecnologias Utilizadas:
 React: Para o desenvolvimento da interface de usuário interativa.
